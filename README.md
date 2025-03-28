@@ -32,8 +32,8 @@ El código está documentado con comentarios para explicar los pasos clave y las
 ## Estructura del archivo CSV.
 
 ## id,tipo,monto
-1,Crédito,100.00
-2,Débito,50.00
-3,Crédito,200.00
-4,Débito,75.00
-5,Crédito,150.00
+`1,Crédito,100.00`
+`2,Débito,50.00`
+`3,Crédito,200.00`
+`4,Débito,75.00`
+`5,Crédito,150.00`
