@@ -9,7 +9,7 @@ Esta aplicación procesa un archivo CSV con transacciones bancarias y genera un 
 
 
 ## Instrucciones de Ejecución
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/retotecnico-cobol`
+1. Clona este repositorio: `git clone https://github.com/carlosariasgit/retotecnico-cobol`
 2. Navega al directorio del proyecto: `cd retotecnico-cobol`
 3. Coloca el archivo `transacciones.csv` en el directorio raíz del proyecto.
 4. Ejecuta la aplicación: `python main.py`
