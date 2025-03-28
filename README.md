@@ -30,6 +30,7 @@ Notas adicionales
 - Puedes reemplazar  con tu propio archivo CSV, siempre que tenga el formato indicado.
 
 Estructura del archivo CSV.
+
 id,tipo,monto
 1,Crédito,100.00
 2,Débito,50.00
