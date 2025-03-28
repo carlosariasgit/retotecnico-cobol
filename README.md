@@ -25,13 +25,13 @@ La lógica del programa se implementa en Python utilizando estructuras simples c
 ## Documentación y Calidad del Código
 El código está documentado con comentarios para explicar los pasos clave y las decisiones tomadas. Se privilegia la legibilidad y simplicidad para facilitar su comprensión.
 
-Notas adicionales
+## Notas adicionales
 - Asegúrate de tener Python instalado en tu máquina (versión 3.6 o superior).
 - Puedes reemplazar  con tu propio archivo CSV, siempre que tenga el formato indicado.
 
-Estructura del archivo CSV.
+## Estructura del archivo CSV.
 
-id,tipo,monto
+## id,tipo,monto
 1,Crédito,100.00
 2,Débito,50.00
 3,Crédito,200.00
